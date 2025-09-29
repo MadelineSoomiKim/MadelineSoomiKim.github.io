@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html>
-    <!-- <body style="background-color:#000000;"></body> -->
-    <p style="background-image: url('UHAU0004.JPG');">
+<style>
+body {
+  background-image: url('UHAU0004.JPG');
+}
+</style>
     <section>
         <center> <font color="#a9cce3">
         <h2>First Semester Selected Work</h2>
