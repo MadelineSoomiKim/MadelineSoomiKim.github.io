@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html>
-<style>
-body {
-  background-image: url('UHAU0004.JPG');
-}
-</style>
+    <body style="background-color:#000000;"></body>
     <section>
         <center> <font color="#a9cce3">
         <h2>First Semester Selected Work</h2>
